@@ -37,7 +37,7 @@ class ClockViewController: UIViewController {
     private func setupClock() {
         switch senderTag {
         case 0:
-            boilTime = (4,30)
+            boilTime = (0,5)
         case 1:
             boilTime = (6,30)
         case 2:

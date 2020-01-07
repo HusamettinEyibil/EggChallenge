@@ -8,3 +8,5 @@ Deadline: 19.12.2019
 - 6.30 minutes boil water -> normal boiled
 - 8.30 minutes boil water -> hard boiled
 - UI is up to you
+
+![alt text](gif1.gif) ![alt text](gif2.gif)

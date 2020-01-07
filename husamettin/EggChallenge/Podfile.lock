@@ -1,0 +1,16 @@
+PODS:
+  - Clocket (1.0.2)
+
+DEPENDENCIES:
+  - Clocket
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Clocket
+
+SPEC CHECKSUMS:
+  Clocket: 096ae0fb73338019f32e9234799d3f5da85bf89d
+
+PODFILE CHECKSUM: 8f57078cfcbc73bcf623cf5bb1ad408060d02fc4
+
+COCOAPODS: 1.7.5
