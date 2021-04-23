@@ -89,7 +89,7 @@ extension ClockViewController : ClocketDelegate {
     }
     
     func countDownExpired() {
-        SweetAlert().showAlert("Enjoy your meal!", subTitle: "Your eggs are ready.", style: .success, buttonTitle: "OK")
+        let _ = SweetAlert().showAlert("Enjoy your meal!", subTitle: "Your eggs are ready.", style: .success, buttonTitle: "OK")
         startButton.isHidden = true
         startButton.isEnabled = false
     }
